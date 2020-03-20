@@ -12,5 +12,5 @@ def square():
     kushal_turtle.forward(100)
 
 for count in range(4):
-    kushal_turtle.color("red","green")
+    kushal_turtle.color("yellow","green")
     square()
